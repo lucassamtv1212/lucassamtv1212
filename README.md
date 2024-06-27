@@ -2,7 +2,7 @@
 - 👀 I’m interested in ciência de dados
 - 🌱 I’m currently learning java python sql
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me data science and backand
+- 📫 How to reach me
 - 😄 Pronouns: ele he 
 - ⚡ Fun fact: cool gentle and shy
 
